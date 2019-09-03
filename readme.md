@@ -1,0 +1,1 @@
+This projects shows how ot get started with PHP include simple unit testing, class, function and variable creation.
